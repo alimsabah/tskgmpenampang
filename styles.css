@@ -1,4 +1,4 @@
   body {  font-family: Arial, Helvetica, sans-serif;}
   p { color: black;}
-  #mycities {color:black; background-color: red; font-size: 60px;}
-  .city {color: red;background-color: black; padding-bottom: 10px; margin: 0; font-size: 20px;}
+  #mycities {color:black; background-color: #ccac93; font-size: 60px;}
+  .city {color: black;background-color: #96c3eb; padding-bottom: 10px; margin: 0; font-size: 20px;}
